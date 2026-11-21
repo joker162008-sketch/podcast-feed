@@ -7,7 +7,7 @@
     <description>一个四十岁 IT 人的重新出发手记。聊工作、聊变化、聊中年以后的人生换挡。</description>
     <language>zh-cn</language>
     <copyright>© 2026 derex</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 13:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:57:52 +0000</lastBuildDate>
     <generator>podcast-publisher</generator>
     <image>
       <url>https://joker162008-sketch.github.io/podcast-feed/cover.jpg</url>
@@ -22,6 +22,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>又是一年冬</title>
+      <description>时光匆匆，转眼又是一年冬。聊聊父亲送站时微驼的背，聊聊四十岁这一年的失去和获得：把遗憾打包，留在身后的路口；把温暖收好，装进贴身的口袋。原文：橘歌《时光匆匆，又是一年冬》，本集为改编朗读。</description>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://joker162008-sketch.github.io/podcast-feed/episodes/ep002-2026-11-22.mp3" length="7600098" type="audio/mpeg" />
+      <guid isPermaLink="true">https://joker162008-sketch.github.io/podcast-feed/episodes/ep002-2026-11-22.mp3</guid>
+      <itunes:title>又是一年冬</itunes:title>
+      <itunes:duration>00:05:09</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>四十岁，只是逗号</title>
       <description>没有脚本，没有嘉宾。聊聊四十岁，聊聊离开公司这两年发生的变化：当时间被还回来，经验里没有过时的判断力还在；AI 这样的新工具，又把起跑线重新拉平。四十岁不是句号，只是逗号。</description>

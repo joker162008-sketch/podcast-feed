@@ -12,3 +12,15 @@ episodes:
   loudness_lufs: -19.25
   true_peak_dbtp: -3.75
   guid: https://joker162008-sketch.github.io/podcast-feed/episodes/ep001-2026-11-21.mp3
+- episode: 2
+  title: 又是一年冬
+  description: 时光匆匆，转眼又是一年冬。聊聊父亲送站时微驼的背，聊聊四十岁这一年的失去和获得：把遗憾打包，留在身后的路口；把温暖收好，装进贴身的口袋。原文：橘歌《时光匆匆，又是一年冬》，本集为改编朗读。
+  date: '2026-11-22'
+  pub_date: Sun, 22 Nov 2026 08:00:00 +0800
+  file: episodes/ep002-2026-11-22.mp3
+  length: 7600098
+  duration: 00:05:09
+  duration_seconds: 309.264
+  loudness_lufs: -19.27
+  true_peak_dbtp: -4.04
+  guid: https://joker162008-sketch.github.io/podcast-feed/episodes/ep002-2026-11-22.mp3
