@@ -1,0 +1,14 @@
+# Managed by podcast-publisher/publish.py — every published episode; feed.xml is built from this.
+episodes:
+- episode: 1
+  title: 四十岁，只是逗号
+  description: 没有脚本，没有嘉宾。聊聊四十岁，聊聊离开公司这两年发生的变化：当时间被还回来，经验里没有过时的判断力还在；AI 这样的新工具，又把起跑线重新拉平。四十岁不是句号，只是逗号。
+  date: '2026-11-21'
+  pub_date: Sat, 21 Nov 2026 08:00:00 +0800
+  file: episodes/ep001-2026-11-21.mp3
+  length: 7428845
+  duration: 00:05:02
+  duration_seconds: 302.136
+  loudness_lufs: -19.25
+  true_peak_dbtp: -3.75
+  guid: https://joker162008-sketch.github.io/podcast-feed/episodes/ep001-2026-11-21.mp3
